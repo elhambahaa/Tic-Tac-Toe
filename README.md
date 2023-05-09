@@ -18,6 +18,6 @@ This is a simple implementation of the classic game Tic Tac Toe, built using HTM
 
 ## Screenshot
 
-![Screenshot of Tic Tac Toe Game](screenshot.png)
+<img src="screencapture.png">
 
 
